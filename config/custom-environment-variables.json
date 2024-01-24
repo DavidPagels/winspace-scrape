@@ -1,0 +1,10 @@
+{
+    "email": {
+        "from": "EMAIL_FROM",
+        "to": "EMAIL_TO"
+    },
+    "smtp": {
+        "user": "SMTP_USER",
+        "pass": "SMTP_PASS"
+    }
+}
